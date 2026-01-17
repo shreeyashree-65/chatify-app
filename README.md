@@ -25,3 +25,6 @@ Zustand for State Management
 Git & GitHub Workflow (branches, PRs, merges)
 
 Easy Deployment (free-tier friendly with Sevalla)
+
+## WorkFlow Architecture
+![alt text](image-1.png)
